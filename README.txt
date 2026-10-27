@@ -1,12 +1,25 @@
-ASHISH DADORIYA PORTFOLIO
+Ashish Dadoriya | Aviation Revenue Management & Analytics
 
-Extract this ZIP first, then open index.html in Chrome.
-The CSS and JavaScript are embedded in index.html, so the design does not depend on a separate assets folder.
-Keep Ashish_Dadoriya_Resume.pdf in the same folder for the resume download button to work.
-For the Google Fonts, internet access is needed; the rest of the design works offline.
+Welcome to my professional portfolio!
 
+I am a revenue management and pricing analytics professional at IndiGo, specializing in dynamic pricing, demand forecasting, revenue optimization, and data-driven decision-making in the aviation industry.
 
-ENHANCED VERSION: Resume buttons now show an airplane takeoff/flight/landing animation before downloading the PDF, followed by a confirmation toast. Extract this ZIP first and keep the PDF beside index.html.
+🚀 Explore My Portfolio
 
+Visit my portfolio website to learn about my professional experience, key achievements, technical skills, and projects.
 
-ULTIMATE EDITION: Adds a skippable animated intro, an interactive illustrative route map, a revenue-control-room demo dashboard, a scroll-following airplane, and more chart/card animations. All demo charts are labeled illustrative; only résumé-sourced KPI figures are represented as factual.
+🌐 [View My Portfolio]
+
+💼 Core Expertise
+- Revenue Management & Dynamic Pricing
+- Demand Forecasting & Revenue Optimization
+- Aviation Network & Pricing Analytics
+- SQL, Python, Power BI, Tableau & Advanced Excel
+
+🎓 Education
+Integrated B.Tech + MBA  
+ABV-IIITM, Gwalior
+
+📬 Connect With Me
+-LinkedIn:https://www.linkedin.com/in/ashish-d-8b970a93
+-Email: ashishdadoriya@gmail.com
